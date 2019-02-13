@@ -336,7 +336,7 @@ metadata {
             "switchRed","levelRedSlider", "levelRedTile",
             "switchGreen","levelGreenSlider", "levelGreenTile",
             "switchBlue","levelBlueSlider", "levelBlueTile",
-            "switchWhite","levelWhiteSlider", "levelWhiteTile",
+//            "switchWhite","levelWhiteSlider", "levelWhiteTile",
 
             // OUT Channels:
             //"switchCh1","levelCh1Slider", "levelCh1Tile",
@@ -348,7 +348,7 @@ metadata {
             //"switchCh1ReadOnly", "ch1Label", "levelCh1Tile",
             //"switchCh2ReadOnly", "ch2Label", "levelCh2Tile",
             //"switchCh3ReadOnly", "ch3Label", "levelCh3Tile",
-            //"switchCh4ReadOnly", "ch4Label", "levelCh4Tile",
+            "switchCh4ReadOnly", "ch4Label", "levelCh4Tile",
 
             // Energy and Power:
             "powerLabel", "power", "refresh", "lastReset", "energy",
