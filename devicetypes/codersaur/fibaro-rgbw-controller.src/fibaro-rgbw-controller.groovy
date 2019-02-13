@@ -238,7 +238,7 @@ metadata {
         valueTile("switchCh4ReadOnly", "device.switchCh4", decoration: "flat", height: 1, width: 1) {
             state "default", label:'${currentValue}'
         }
-        valueTile("ch4Label", "device.switchCh1", decoration: "flat", height: 1, width: 4) {
+        valueTile("ch4Label", "device.switchCh4", decoration: "flat", height: 1, width: 4) {
             state "default", label:'Channel #4 (Input):'
         }
 
